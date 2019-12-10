@@ -1,2 +1,6 @@
 Step1:git init
 Step2:git remote add origin "https://github.com/sureshpatil2717/LearnGIT.git"
+Step3:git pull origin master
+Step4:git status (it will check whether file is added or not )
+Step5:git add GITStepBYStep.txt
+Step6:git commit -m "normal comments we can give"
