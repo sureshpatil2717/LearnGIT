@@ -1,0 +1,2 @@
+Step1:git init
+Step2:git remote add origin "https://github.com/sureshpatil2717/LearnGIT.git"
