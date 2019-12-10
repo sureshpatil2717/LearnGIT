@@ -9,4 +9,5 @@ i am modifying the file
 //////////////////////////////////////////////
 step7:git add -A(to add mutiple files to git to index)
 Step8:git add -a -m "comments to be added"(to commit all files to local git)
+step9:git log (to check wat are the commands and commit v did)
 
